@@ -36,9 +36,9 @@ sudo apt install python3-venv
 sudo apt install git
 sudo apt install screen
 ```
-Git clone bot discord , go to folder & Install module using venv https://github.com/Faisalxgithub/discord-bot/tree/main
+Git clone bot discord , go to folder & Install module using venv 
 ```
-git clone 
+git clone https://github.com/Faisalxgithub/discord-bot/tree/main
 cd discord-bot
 python3 -m venv shareithub
 source shareithub/bin/activate
