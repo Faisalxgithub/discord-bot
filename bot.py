@@ -1,7 +1,7 @@
 SPECIAL_QUESTIONS = {
-    "tell me about you": "I'm just someone who loves chatting and helping ou!",
-    "who are you": "I'm here to keep the conversation going and have fun!",
-    "what are you": "I'm just another person hanging out here!",
+    "tell me about you": "I'm just here to grind roles sir",
+    "who are you": "offcourse i'm human and i'm just here to grind for roles and learn about momentum finance",
+    "what are you": "i'm human hehe🤣",
 }
 
 def is_special_question(message):
